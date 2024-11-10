@@ -1,1 +1,10 @@
-{"Parameters":{"SEED":11}}
+{
+  "Parameters": {
+    "MARGIN": 100,
+    "SEED": 11,
+    "ITERATION_NUMBER": 1000,
+    "WIDTH": 2000,
+    "CELL_SIZE": 5,
+    "HEIGHT": 2000
+  }
+}
